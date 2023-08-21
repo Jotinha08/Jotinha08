@@ -9,7 +9,7 @@ ABOUT ME 👾
 
 - 👯 I’m looking to collaborate on Data Science Projects
 
-- 📝 I regularly write articles on Lattes(https://lattes.cnpq.br/4254758928263904)
+- 📝 I regularly write articles on https://lattes.cnpq.br/4254758928263904
 
 - 📫 How to reach me: contato.jpvrodrigues@gmail.com
 
