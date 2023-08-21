@@ -2,6 +2,9 @@
   <img src="https://github.com/Jotinha08/Jotinha08/raw/main/assets/header.gif" alt="Header">
 </p>
 
+```
+ABOUT ME 👾
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
@@ -10,10 +13,16 @@
 
 - 📫 How to reach me **contato.jpvrodrigues@gmail.com**
 
+```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jotinha08&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+MY GITHUB CONTRIBUTIONS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jotinha08&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+	<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Jotinha08&show_icons=true&theme=dracula"/>
+	<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jotinha08&layout=compact&theme=dracula"/>
+</div
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
