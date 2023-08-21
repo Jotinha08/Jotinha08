@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Jotinha08/Jotinha08/raw/main/assets/header.gif" alt="Header">
+  <img src="https://github.com/Jotinha08/Jotinha08/raw/main/assets/github_header.gif" alt="Header">
 </p>
 
 - 🌱 I’m currently learning **Machine Learning**
