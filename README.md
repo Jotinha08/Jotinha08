@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm João Pedro</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
+<p align="center">
+  <img src="https://github.com/Jotinha08/Jotinha08/raw/main/assets/header.gif" alt="Header">
+</p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
